@@ -1,0 +1,2 @@
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS05\part 1\x64\Debug\Project1.exe
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS05\part 1\x64\Debug\Project1.pdb

@@ -1,0 +1,3 @@
+﻿  SongCollection.cpp
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS07\part 2\SongCollection.cpp(56,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  WS07.vcxproj -> C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS07\part 2\x64\Debug\WS07.exe

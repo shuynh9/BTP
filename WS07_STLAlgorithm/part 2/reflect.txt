@@ -1,0 +1,6 @@
+Sophia Huynh (118448208)
+Shuynh9@myseneca.ca
+BTP305 NCC Mufleh Al-Shatnawi
+Reflection
+
+In this workshop, I had learned a lot about STL templates. I have chosen to use accumulate, copy_if, for_each, and sort, as these were the most logical for my code. Accumulate is used to add everything together to get a sum, copy_if is used to copy the collection of songs, for_each made it simpler to loop through lambdas, and sort is used to sort through the collection. STL algorithms are much more efficient than implementing the functionality ourselves using loops as STL algorithms are shorter. Loops usually require more than a one or two lines of code whereas lambda expressions are very short. To prevent the clients from adding an invalid field, we can catch the error and throw an error message.   

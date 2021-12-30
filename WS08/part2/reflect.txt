@@ -1,0 +1,6 @@
+Sophia Huynh 118448208		
+Shuynh9@myseneca.ca
+BTP305 NCC – Mufleh Al-Shatnawi
+Reflection
+In this workshop, I have learned how to move an object using smart pointers instead of raw pointers.  The main difference between the two is that raw pointers look like: Void operator+=(const T* point) whereas smart pointers look like: Void operator+=(std::unique_ptr<T>&point), which requires a template <T>.
+The advantages to smart pointers is that they automatically get deleted (destructor automatically gets called) once it’s out of scope whereas raw pointers need to be manually deleted. This is great because you don’t have to worry about forgetting to clean up a pointer and cause a memory leak. 

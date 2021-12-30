@@ -1,0 +1,5 @@
+Sophia Huynh (118448208)
+Shuynh9@myseneca.ca
+BTP305NCC
+
+In this workshop, I have learned how to use the chrono library and have found it extremely useful for when you want to keep track of the time. The copy semantics are used for shallow copying, which means creating a copy of the current variable, at the same location on heap as the original. The move semantics is for deep copying when you create a copy of the pointed-to data in a unique storage in the heap. Both are very useful but deep copying is used mostly with raw pointers that are class data members. Retrieving the file and opening/closing it was quite difficult as I hadn’t used this in a while but once I reviewed it, I had remembered that you have to create a variable pointing to the ifstream (input file stream) and open the file from there. 

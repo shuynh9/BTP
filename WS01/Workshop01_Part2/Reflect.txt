@@ -1,0 +1,4 @@
+Sophia Huynh(118448208)
+Shuynh9@myseneca.ca
+BTP305 NCC 
+This lab was quite challenging as I had forgotten about the iomanip library, which allowed for easier formatting in the display function. I had also used the static keyword to create the counter so that it will last the lifetime of the program. At first, g_sysClock really threw me off as I didn’t understand where this was coming from but realized that I needed to define it in both the main and .cpp so that I can access the variable through different translation units. Lastly, I was able to guard the class definition from duplicating through the header file.

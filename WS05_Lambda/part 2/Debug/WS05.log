@@ -1,0 +1,5 @@
+﻿  Book.cpp
+  w5_p2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\Collection.h(16,1): fatal error C1189: #error:  collection.h requires the /ZW compiler option.
+  Generating Code...
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS05\Book.cpp(85): error C4716: 'sdds::operator<<': must return a value

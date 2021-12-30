@@ -1,0 +1,5 @@
+Sophia Huynh 118448208
+Shuynh9@myseneca.ca
+BTP305 NCC Mufleh Al-Shatnawi
+Workshop 9 Reflection
+In this workshop, we have learned process data on more than one thread as well as writing and reading from files into binary. It’s necessary to use binary files because the txt file that’s given has the data we need to convert. Binary files are much quicker and take up less space in memory. Binding a function to its arguments is important because it performs more efficiently as threads handle locking/unlocking for functions. The benefits to multithreading is that you can run two different threads simultaneously, raising the efficiency of the program (making it faster to process).  

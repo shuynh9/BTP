@@ -1,0 +1,5 @@
+Sophia Huynh (118448208)
+Shuynh9@myseneca.ca
+BTP305 NCC
+Reflection
+	In this workshop, I’ve learned that templates are extremely efficient to use as they provide simplistic code for most scenarios. We had to only implement header files this time around because templates are fully implemented in headers. If templates were implemented in .cpp files, they will only be accessible within that file. In our two-arg constructor in PairSummable, we had to assign our initial value in the parameters – this is because initial (m_initialValue) is an empty value since it was initialized to nothing in the specializations. Because templates are used, it will make an empty value of whichever type is passed through. My biggest challenge in this workshop was creating the specialization functions as I kept thinking they needed to be within the class. I had then had troubles with the templates in the specializations as I didn’t realize I had to put a new template for each function. 

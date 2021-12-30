@@ -1,0 +1,5 @@
+Sophia Huynh (118448208)
+Shuynh9@myseneca.ca
+BTP305 NCC
+Reflection
+	Upon this workshop, we learned the composition is a “has-a” relationship between classes whereas aggregation is a composition but it does not deal with the creation nor destruction of the objects that it uses. While starting this workshop, I got stumped on the one-arg constructor in the Reservation module. I had a hard time removing the spaces between the end of the id and the ‘:’ but had then stumbled upon the functions, find_first_of, find_first_not_of, find_last_of, and find_last_not_of amongst the given functions in the instructions. These functions made it a lot easier to find the white spaces in the beginning and end of the strings. I had also troubles with the ConfirmationSender module with the array of double pointers and allocating new memory for it. I had then realized that it I had to do, new const Reservation* [c_size], because it’s an array of double pointers and so we’re assigning new pointer array. It was very interesting to work with different modules that intertwined within each other, creating a smoother application. 

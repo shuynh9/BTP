@@ -1,0 +1,4 @@
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\WS03\Debug\WS03.exe
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\WS03\Debug\WS03.pdb
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS03\part 2\Debug\WS03.exe
+C:\Users\sophi\Documents\2021_Semester_3\BTP305\Workshops\WS03\part 2\Debug\WS03.pdb
